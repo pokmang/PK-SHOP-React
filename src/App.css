@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.con{
+    display :grid ;
+    grid-template-columns: repeat(3  ,1fr);
+    margin-top: 0.5cm;
+    border: 15px;
+    border-color: black;
+    margin-left: 2.50cm;
+}
+.bnt{
+  margin-top: 0.5cm;
+}
+
+.col{
+  margin: 0px;
+  background-color: #96b0e2;
+  font-size: 20px;
+  margin-bottom: 15px;
+  
+}
+
